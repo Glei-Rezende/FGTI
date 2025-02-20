@@ -1,3 +1,4 @@
-#Atividades
+# FGTI
 
-Fund. Gest. Tec. Inf.
+Atividades realizadas em sala de aula.
+
