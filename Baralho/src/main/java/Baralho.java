@@ -28,7 +28,7 @@ public class Baralho {
         int tamanhoBaralho = cartas.size();
 
         // Repetir o processo de troca várias vezes
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 150; i++) {
             // Sorteia duas posições aleatórias
             int posicao1 = (int) (Math.random() * tamanhoBaralho);
             int posicao2 = (int) (Math.random() * tamanhoBaralho);
